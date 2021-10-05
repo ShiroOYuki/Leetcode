@@ -20,9 +20,8 @@ class Solution:
                 trav = trav.left
             else:
                 u = stack.pop()
-                if u:
-                    if u.val <= prev:
-                        return False
-                    prev = u.val
+                if u.val <= prev:
+                    return False
+                prev = u.val
                 trav = u.right
         return True
