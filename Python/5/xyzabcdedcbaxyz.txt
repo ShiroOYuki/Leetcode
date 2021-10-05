@@ -1,0 +1,5 @@
+xyzabcdedcbaxyz
+->                 ->
+e ->True
+ded -> True
+cdedc -> True

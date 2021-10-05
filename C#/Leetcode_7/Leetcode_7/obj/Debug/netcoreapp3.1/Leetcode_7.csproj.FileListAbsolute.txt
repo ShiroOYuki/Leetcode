@@ -1,0 +1,13 @@
+D:\程式\Contest\Leetcode\C#\Leetcode_7\Leetcode_7\bin\Debug\netcoreapp3.1\Leetcode_7.exe
+D:\程式\Contest\Leetcode\C#\Leetcode_7\Leetcode_7\bin\Debug\netcoreapp3.1\Leetcode_7.deps.json
+D:\程式\Contest\Leetcode\C#\Leetcode_7\Leetcode_7\bin\Debug\netcoreapp3.1\Leetcode_7.runtimeconfig.json
+D:\程式\Contest\Leetcode\C#\Leetcode_7\Leetcode_7\bin\Debug\netcoreapp3.1\Leetcode_7.runtimeconfig.dev.json
+D:\程式\Contest\Leetcode\C#\Leetcode_7\Leetcode_7\bin\Debug\netcoreapp3.1\Leetcode_7.dll
+D:\程式\Contest\Leetcode\C#\Leetcode_7\Leetcode_7\bin\Debug\netcoreapp3.1\Leetcode_7.pdb
+D:\程式\Contest\Leetcode\C#\Leetcode_7\Leetcode_7\obj\Debug\netcoreapp3.1\Leetcode_7.csprojAssemblyReference.cache
+D:\程式\Contest\Leetcode\C#\Leetcode_7\Leetcode_7\obj\Debug\netcoreapp3.1\Leetcode_7.AssemblyInfoInputs.cache
+D:\程式\Contest\Leetcode\C#\Leetcode_7\Leetcode_7\obj\Debug\netcoreapp3.1\Leetcode_7.AssemblyInfo.cs
+D:\程式\Contest\Leetcode\C#\Leetcode_7\Leetcode_7\obj\Debug\netcoreapp3.1\Leetcode_7.csproj.CoreCompileInputs.cache
+D:\程式\Contest\Leetcode\C#\Leetcode_7\Leetcode_7\obj\Debug\netcoreapp3.1\Leetcode_7.dll
+D:\程式\Contest\Leetcode\C#\Leetcode_7\Leetcode_7\obj\Debug\netcoreapp3.1\Leetcode_7.pdb
+D:\程式\Contest\Leetcode\C#\Leetcode_7\Leetcode_7\obj\Debug\netcoreapp3.1\Leetcode_7.genruntimeconfig.cache

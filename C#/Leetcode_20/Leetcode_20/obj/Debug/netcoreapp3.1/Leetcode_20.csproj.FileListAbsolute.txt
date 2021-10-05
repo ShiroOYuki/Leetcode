@@ -1,0 +1,13 @@
+D:\程式\Contest\Leetcode\C#\Leetcode_20\Leetcode_20\bin\Debug\netcoreapp3.1\Leetcode_20.exe
+D:\程式\Contest\Leetcode\C#\Leetcode_20\Leetcode_20\bin\Debug\netcoreapp3.1\Leetcode_20.deps.json
+D:\程式\Contest\Leetcode\C#\Leetcode_20\Leetcode_20\bin\Debug\netcoreapp3.1\Leetcode_20.runtimeconfig.json
+D:\程式\Contest\Leetcode\C#\Leetcode_20\Leetcode_20\bin\Debug\netcoreapp3.1\Leetcode_20.runtimeconfig.dev.json
+D:\程式\Contest\Leetcode\C#\Leetcode_20\Leetcode_20\bin\Debug\netcoreapp3.1\Leetcode_20.dll
+D:\程式\Contest\Leetcode\C#\Leetcode_20\Leetcode_20\bin\Debug\netcoreapp3.1\Leetcode_20.pdb
+D:\程式\Contest\Leetcode\C#\Leetcode_20\Leetcode_20\obj\Debug\netcoreapp3.1\Leetcode_20.csprojAssemblyReference.cache
+D:\程式\Contest\Leetcode\C#\Leetcode_20\Leetcode_20\obj\Debug\netcoreapp3.1\Leetcode_20.AssemblyInfoInputs.cache
+D:\程式\Contest\Leetcode\C#\Leetcode_20\Leetcode_20\obj\Debug\netcoreapp3.1\Leetcode_20.AssemblyInfo.cs
+D:\程式\Contest\Leetcode\C#\Leetcode_20\Leetcode_20\obj\Debug\netcoreapp3.1\Leetcode_20.csproj.CoreCompileInputs.cache
+D:\程式\Contest\Leetcode\C#\Leetcode_20\Leetcode_20\obj\Debug\netcoreapp3.1\Leetcode_20.dll
+D:\程式\Contest\Leetcode\C#\Leetcode_20\Leetcode_20\obj\Debug\netcoreapp3.1\Leetcode_20.pdb
+D:\程式\Contest\Leetcode\C#\Leetcode_20\Leetcode_20\obj\Debug\netcoreapp3.1\Leetcode_20.genruntimeconfig.cache

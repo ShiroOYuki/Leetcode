@@ -1,0 +1,34 @@
+Node1-1 = 2,Node1-2
+Node1-2 = 4,Node1-3
+Node1-3 = 3,None
+Node2-1 = 5,Node2-1
+Node2-2 = 6,Node2-2
+Node2-3 = 4,None
+
+addTwoNumbers(Node1-1,Node2-1)
+    add_val(Node1-1,Node2-1,0):
+        l1 = 2,Node1-2
+        l2 = 5,Node2-1
+        addnum = 0
+
+        i=7
+        tempNode = 7,None
+
+        add_val(Node1-2,Node2-2,0):
+            l1 = 4,Node1-3
+            l2 = 6,Node2-3
+            addnum = 0
+
+            i=10
+            tempNode=0,None
+
+            add_val(Node1-3,Node2-3,1):
+                l1 = 3,None
+                l2 = 4,None
+                addnum = 1
+
+                i=8
+                tempNode=8,None
+            tempNode = 0,[8,None]
+        tempNode = 7,[0,[8,None]]
+    return tempNode
