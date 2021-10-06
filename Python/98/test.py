@@ -1,7 +1,2 @@
-a = True
-b = False
-
-a = True if a != False else False
-b = True if b != False else False
-
-print(a,b)
+l = [0,1,2,3,4,5]
+print(l[:2],l[4:])
